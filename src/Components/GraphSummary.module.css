@@ -1,0 +1,33 @@
+.GraphSummary>div{
+    display: flex;
+    flex-direction: row-reverse;
+    transform: rotate(180deg);
+    border: 2px solid grey;
+    width: 68%;
+    margin: auto;
+    gap : 2px;
+    padding: 20px 1%;
+    border-radius: 5px;
+    height: 450px;
+
+}
+.GraphSummary>div>div{
+    border-radius: 0 0 3px 3px;
+    cursor: pointer;
+    background-color: blue;
+}
+.GraphSummary>div>div:hover{
+    background-color: purple;
+}
+.GraphSummary>span{
+    display: flex;
+    width: 70%;
+    justify-content: space-between;
+    margin: 40px auto;
+}
+.GraphSummary select{
+    width: fit-content;
+}
+.GraphSummary>h2{
+    text-align: center;
+}

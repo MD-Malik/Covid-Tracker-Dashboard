@@ -1,0 +1,20 @@
+.globalSummary{
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    width: 70%;
+}
+.globalSummary>div{
+    display: flex;
+    flex-direction: column;
+    border: 2px solid grey;
+    padding: 20px;
+    border-radius: 10px;
+}
+.globalSummary>div>div{
+    display: flex;
+    justify-content: space-between;
+}
+.globalSummary>h2{
+    text-align: center;
+}

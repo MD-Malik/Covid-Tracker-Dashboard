@@ -1,0 +1,27 @@
+.Navbar{
+    background : lightBlue;
+    display: flex;
+}
+.Navbar>div:nth-child(2){
+    margin-left: 20%;
+    font-size:25px;
+    /* padding: 20px 0; */
+    color: purple;
+    font-weight: bold;
+    /* vertical-align: center; */
+    align-content: center;
+}
+.Navbar>div{
+    display: flex;
+    /* padding: 20px 10px; */
+    /* justify-content: space-between; */
+    /* width: 30%; */
+    padding: 2px;
+    gap : 2px;
+}
+.Navbar>div>a{
+    background : green;
+    color: white;
+    text-decoration: none;
+    padding: 15px 30px;
+}
