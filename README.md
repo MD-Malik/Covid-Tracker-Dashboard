@@ -1,5 +1,4 @@
-# Deployed Link:
-(https://covidtrackerdashboardshahrukh.netlify.app).
+# Deployed Link: (https://covidtrackerdashboardshahrukh.netlify.app).
 
 # Getting Started with Create React App
 
